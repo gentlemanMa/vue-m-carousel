@@ -1,5 +1,5 @@
-# vue-m-carousel
-vue 移动端轮播组件 [live demo](https://shiye515.github.io/vue-m-carousel/)
+# vue-m-carousel 1.0
+vue 移动端轮播组件，只适配1.0，vue2.0请使用2.0的版本，2.0与1.0api保持不变
 
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
@@ -21,7 +21,7 @@ vue 移动端轮播组件 [live demo](https://shiye515.github.io/vue-m-carousel/
 
 [![vue-m-carousel](https://nodei.co/npm/vue-m-carousel.png)](https://npmjs.org/package/vue-m-carousel)
 
-`npm install vue-m-carousel`
+`npm install vue-m-carousel@1.x`
 
 ## 用法
 ```html
